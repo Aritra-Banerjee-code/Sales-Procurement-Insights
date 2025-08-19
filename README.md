@@ -1,7 +1,7 @@
 # Sales-Procurement-Insights
 Python, SQL, Power BI
 
-Regional Sales Analysis
+#  Regional Sales Analysis
 🗂️ Project Summary
 This EDA notebook dives into Acme Co.’s 2014–2018 USA sales dataset through:
 
